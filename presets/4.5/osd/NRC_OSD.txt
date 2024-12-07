@@ -9,11 +9,11 @@
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION: Information
+#$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
-
+#$ DESCRIPTION:
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
