@@ -141,3 +141,4 @@ set osd_aux_symbol = 65
 set osd_canvas_width = 53
 set osd_canvas_height = 20
 set osd_craftname_msgs = OFF
+set osd_gps_sats_show_hdop = OFF
