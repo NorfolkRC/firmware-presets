@@ -1,10 +1,10 @@
-#$ TITLE: sugarK HDzero OSD
+#$ TITLE: NRC sugarK HDzero OSD
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:hdzero, HD, HDOSD, OSD, sugarK, racing
-#$ AUTHOR: sugarK 
+#$ AUTHOR: BrunoFPV NorfolkRC 
 
 #$ DESCRIPTION: sugarKs HD OSD race settings
 #$ DESCRIPTION: Intended to be used with the HDzero race cameras using 4.3 aspect ratio.
