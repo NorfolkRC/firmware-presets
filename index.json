@@ -228,6 +228,7 @@
       "2024",
       "2024 sliders",
       "20ms",
+      "2222222222222hdzero",
       "25",
       "2500mW",
       "250Hz",
@@ -6459,7 +6460,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/sugark_hdzero_osd.txt",
-      "hash": "52eeb890dbe8dc62b3adaae7477615660dbbf31cc8ba013994ea4b407adc6305",
+      "hash": "4c0fb4a4a71681a670c40a2c81d0de885c84f94e57179d3dd2fbace6a8f5d659",
       "title": "NRC sugarK HDzero OSD",
       "firmware_version": [
         "4.4",
@@ -6468,7 +6469,7 @@
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "hdzero",
+        "2222222222222hdzero",
         "HD",
         "HDOSD",
         "OSD",
