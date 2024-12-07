@@ -6459,6 +6459,27 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/osd/NRC_OSD.txt",
+      "hash": "4c0fb4a4a71681a670c40a2c81d0de885c84f94e57179d3dd2fbace6a8f5d659",
+      "title": "NRC sugarK HDzero OSD",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2222222222222hdzero",
+        "HD",
+        "HDOSD",
+        "OSD",
+        "sugarK",
+        "racing"
+      ],
+      "author": "BrunoFPV NorfolkRC",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/sugark_hdzero_osd.txt",
       "hash": "4c0fb4a4a71681a670c40a2c81d0de885c84f94e57179d3dd2fbace6a8f5d659",
       "title": "NRC sugarK HDzero OSD",
