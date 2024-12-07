@@ -5,9 +5,7 @@
 #$ KEYWORDS: DJI OSD
 #$ AUTHOR: Bruno @ NorfolkRC 
 
-#$ PARSER: MARKED
-
-#$ DESCRIPTION: HD OSD race settings
+#$ DESCRIPTION: HD OSD settings
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
@@ -19,7 +17,7 @@
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION: <img src="https://i.ibb.co/GtD9WMm/Screenshot-2024-06-20-195831.jpg" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: <img src="https://i.ibb.co/ZKGGh3p/BANNER-1.jpg" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 #$ INCLUDE: presets/4.4/osd/defaults.txt
