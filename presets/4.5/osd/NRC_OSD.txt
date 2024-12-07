@@ -1,27 +1,24 @@
-#$ TITLE: NRC sugarK HDzero OSD
+#$ TITLE: NorfolkRC DJI 03 OSD
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: 2222222222222hdzero, HD, HDOSD, OSD, sugarK, racing
-#$ AUTHOR: BrunoFPV NorfolkRC 
+#$ KEYWORDS: DJI OSD
+#$ AUTHOR: Bruno @ NorfolkRC 
 
-#$ DESCRIPTION: sugarKs HD OSD race settings
-#$ DESCRIPTION: Intended to be used with the HDzero race cameras using 4.3 aspect ratio.
+#$ DESCRIPTION: HD OSD race settings
+#$ DESCRIPTION: Intended to be used with the DJI 03 Unit
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: For use with HDzero race vtx/cam combos and the HDzero goggles
 #$ DESCRIPTION:
 #$ DESCRIPTION: Information
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
-#$ DESCRIPTION: And yes there is an HDzero MSP-OSD preset already
 
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: <img src="https://github.com/betaflight/firmware-presets/assets/83344205/039e4153-b056-4244-91e1-2b06501326d4" style="width:100%"/>
+#$ DESCRIPTION: <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/459357332_925430929413619_4699447807875386699_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2285d6&_nc_ohc=2n3hx7v9FaQQ7kNvgEEBSmI&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Ay2N181tM8XX0VqCGRq-gjC&oh=00_AYClk7FjbUY0r_ybk096eiM7ARvSjDjrKM7epydEWWa-mg&oe=675A70EC" style="width:10%"/>
 #$ DESCRIPTION: 
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/477
 
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
