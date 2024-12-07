@@ -3,7 +3,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:hdzero, HD, HDOSD, OSD, sugarK, racing
+#$ KEYWORDS: 2222222222222hdzero, HD, HDOSD, OSD, sugarK, racing
 #$ AUTHOR: BrunoFPV NorfolkRC 
 
 #$ DESCRIPTION: sugarKs HD OSD race settings
