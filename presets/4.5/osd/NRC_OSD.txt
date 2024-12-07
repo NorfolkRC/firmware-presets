@@ -1,10 +1,11 @@
 #$ TITLE: NorfolkRC DJI 03 OSD
-#$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: COMMUNITY
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: DJI OSD
 #$ AUTHOR: Bruno @ NorfolkRC 
+
+#$ PARSER: MARKED
 
 #$ DESCRIPTION: HD OSD race settings
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit
@@ -17,9 +18,10 @@
 
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION:
+#$ DESCRIPTION: <img src="https://i.ibb.co/GtD9WMm/Screenshot-2024-06-20-195831.jpg" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
-
+#$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_bitmask = 24319
