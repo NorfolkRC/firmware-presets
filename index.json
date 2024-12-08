@@ -6460,8 +6460,8 @@
     },
     {
       "fullPath": "presets/4.5/osd/NRC_OSD.txt",
-      "hash": "6da9f6ab75449bf77e983e0d42286549435650b70b2b1ca5d2d16fd828297345",
-      "title": "NorfolkRC DJI 03 OSD v0.7",
+      "hash": "71e735665bf36d8e296276781008e7b7be951eb02236fa0c0c5bcd91ebf9edbd",
+      "title": "NorfolkRC DJI 03 OSD v0.9",
       "firmware_version": [
         "4.5"
       ],
