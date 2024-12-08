@@ -10,7 +10,7 @@
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit and Goovgles v2 or Googles 2
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION:*[FACEBOOK SUPPORT/FEEDBACK](https://www.facebook.com/groups/norfolkrc/)
+#$ DESCRIPTION:*[FACEBOOK](https://www.facebook.com/groups/norfolkrc/)
 #$ DESCRIPTION:
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
