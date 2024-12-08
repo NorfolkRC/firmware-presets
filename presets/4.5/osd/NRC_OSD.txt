@@ -24,8 +24,10 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)
-#$ DESCRIPTION:
-#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: Preview:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <img src="https://iili.io/2MBNWiX.md.png" width="400px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 
