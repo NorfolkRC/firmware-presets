@@ -7,19 +7,16 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <a href="https://supaflyfpv.com"><img src="https://iili.io/2M3OWap.md.png" width="220px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
-#$ DESCRIPTION:
+#$ DESCRIPTION: </br>
 #$ DESCRIPTION: HD OSD settings
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit and Goovgles v2 or Googles 2
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION:
-#$ DESCRIPTION:*[FACEBOOK](https://www.facebook.com/groups/norfolkrc/)
-#$ DESCRIPTION:
-#$ DESCRIPTION: Information:
-#$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
 #$ DESCRIPTION:
+#$ DESCRIPTION:*[FACEBOOK](https://www.facebook.com/groups/norfolkrc/)
+#$ DESCRIPTION:
+#$ DESCRIPTION:
+#$ DESCRIPTION: <a href="https://www.facebook.com/groups/norfolkrc/"><img src="https://iili.io/2M3OWap.md.png" width="120px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Enjoy! :)
