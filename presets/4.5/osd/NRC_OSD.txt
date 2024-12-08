@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC DJI 03 OSD v0.91
+#$ TITLE: NorfolkRC DJI 03 OSD v0.92
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
@@ -10,6 +10,7 @@
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
 #$ DESCRIPTION: [Facebook](https://www.facebook.com/groups/norfolkrc)
+#$ DESCRIPTION:
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
