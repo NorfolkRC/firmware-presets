@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC DJI 03 OSD v0.962
+#$ TITLE: NorfolkRC DJI 03 OSD v0.963
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
@@ -28,7 +28,6 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
-#$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_units = METRIC
 set osd_warn_bitmask = 270335
