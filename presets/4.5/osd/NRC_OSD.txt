@@ -14,9 +14,6 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
 #$ DESCRIPTION:
-#$ DESCRIPTION: Preview:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION:
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 #$ INCLUDE: presets/4.4/osd/defaults.txt
