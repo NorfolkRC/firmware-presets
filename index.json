@@ -359,6 +359,7 @@
       "displayport",
       "divimath",
       "DJI",
+      "DJI O3",
       "DJI OSD",
       "dominator",
       "DShot telemetry",
@@ -461,6 +462,7 @@
       "nmea",
       "no rpm",
       "noisy",
+      "NorfolkRC",
       "normal",
       "O3",
       "O3 air unit",
@@ -6460,7 +6462,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/NRC_OSD.txt",
-      "hash": "ddc0ad51875a9eec2998e02c9c634e6733483da1bc2ac4dc551e1df344bcfd43",
+      "hash": "f904858a88ff911de95dc71593eea358b128857a666181f56bb5af5cc7e7da30",
       "title": "NorfolkRC DJI 03 OSD",
       "firmware_version": [
         "4.5"
@@ -6468,7 +6470,9 @@
       "category": "OSD",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "DJI OSD"
+        "DJI OSD",
+        "DJI O3",
+        "NorfolkRC"
       ],
       "author": "Bruno @ NorfolkRC",
       "priority": 0
