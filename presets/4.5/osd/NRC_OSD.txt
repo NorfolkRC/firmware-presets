@@ -16,5 +16,5 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
-#$ INCLUDE: presets/4.5/osd/defaults.txt
+#$ INCLUDE: presets/4.4/osd/defaults.txt
 
