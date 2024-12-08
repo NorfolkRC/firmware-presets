@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC DJI 03 OSD v0.964
+#$ TITLE: NorfolkRC DJI 03 OSD
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
@@ -9,19 +9,19 @@
 
 #$ DESCRIPTION: <a href="https://www.facebook.com/groups/norfolkrc/"><img src="https://iili.io/2M3OWap.md.png" width="120px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
 #$ DESCRIPTION:
-#$ DESCRIPTION: --------------
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
 #$ DESCRIPTION: HD OSD settings
 #$ DESCRIPTION:
-#$ DESCRIPTION: --------------
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit and Goovgles v2 or Googles 2
 #$ DESCRIPTION:
-#$ DESCRIPTION: --------------
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
 #$ DESCRIPTION:
-#$ DESCRIPTION: --------------
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)
 #$ DESCRIPTION:
