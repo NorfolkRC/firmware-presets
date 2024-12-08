@@ -5,6 +5,8 @@
 #$ KEYWORDS: DJI OSD
 #$ AUTHOR: Bruno @ NorfolkRC
 
+#$ PARSER: MARKED
+
 #$ DESCRIPTION: <a href="https://supaflyfpv.com"><img src="https://iili.io/2M3OWap.md.png" width="220px" style="margin-left: auto; margin-right: auto; display: block;"/></a>
 #$ DESCRIPTION:
 #$ DESCRIPTION: HD OSD settings
