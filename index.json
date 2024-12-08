@@ -6459,22 +6459,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/JB_OSD_presets.txt",
-      "hash": "ff9198b153b121a85f8d1f82f7375e37e603ac88f7416d8f2bd6d83d8773e1e2",
-      "title": "JB OSD Presets",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [],
-      "author": "Joshua Bardwell",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/osd/NRC_OSD.txt",
-      "hash": "b5e880a6229f64ce81ee581ae3902407146cb7ce2038a350bbfca16b5d558b3b",
+      "hash": "b9005e9f0d6be09e7b99c0a00518b9a3fb2b631c9473c8de23dba1733ff381db",
       "title": "NorfolkRC DJI 03 OSD v0.2",
       "firmware_version": [
         "4.5"
