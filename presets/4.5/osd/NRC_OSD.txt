@@ -23,7 +23,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: <b>Elements :</b> Battery Average Cell Voltage - Battery Voltage - Craft Name - Disarmed - Flip After Crash Arrow - Fly Mode - Link Quality - Timer 2 - Warnings
+#$ DESCRIPTION: <b>Elements:</b> Battery Average Cell Voltage - Battery Voltage - Craft Name - Disarmed - Flip After Crash Arrow - Fly Mode - Link Quality - Timer 2 - Warnings
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
