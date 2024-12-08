@@ -1,11 +1,10 @@
-#$ TITLE: NorfolkRC DJI 03 OSD v0.93
+#$ TITLE: NorfolkRC DJI 03 OSD v0.94
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: DJI OSD
 #$ AUTHOR: Bruno @ NorfolkRC
 
-#$ PARSER: MARKED 
 
 #$ DESCRIPTION: HD OSD settings
 #$ DESCRIPTION: Intended to be used with the DJI 03 Unit and Goovgles v2 or Googles 2
@@ -22,7 +21,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: Enjoy! :)
 #$ DESCRIPTION:
-#$ DESCRIPTION: <br>
+#$ DESCRIPTION: </br>
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 #$ INCLUDE: presets/4.4/osd/defaults.txt
