@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC DJI 03 OSD v0.3
+#$ TITLE: NorfolkRC DJI 03 OSD v0.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
@@ -17,7 +17,6 @@
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION: <img src="https://supaflyfpv.com/wp-content/uploads/2022/06/Logo-Cropped192.svg" width="220px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 #$ INCLUDE: presets/4.4/osd/defaults.txt
