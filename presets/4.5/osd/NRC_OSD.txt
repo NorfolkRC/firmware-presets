@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: DJI OSD
+#$ KEYWORDS: DJI OSD, DJI O3, NorfolkRC
 #$ AUTHOR: Bruno @ NorfolkRC
 
 #$ PARSER: MARKED
@@ -19,11 +19,11 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
+#$ DESCRIPTION: You will also need to select " VTX (MSP + Displayport) " on the appropriate port in the ports tab.
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: <b>Elements :</b> Battery Average Cell Voltage, Battery Voltage, Craft Name, Disarmed, Flip After Crash Arrow,Fly Mode, Link Quality, Timer 2 & Warnings
+#$ DESCRIPTION: <b>Elements :</b> Battery Average Cell Voltage - Battery Voltage - Craft Name - Disarmed - Flip After Crash Arrow - Fly Mode - Link Quality - Timer 2 - Warnings
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
