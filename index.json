@@ -6701,8 +6701,29 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.5/tune/NRC-3-Tune.txt",
+      "hash": "e6acca4c99a4e3d94e188c85860d2bed5db392c95e21f00337da7686504250fb",
+      "title": "Freestyle 3\" Tune by NorfolkRC",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "NorfolkRC",
+        "NRC",
+        "4S",
+        "6S",
+        "Freestyle",
+        "3 inch",
+        "3\""
+      ],
+      "author": "Bruno @ NorfolkRC",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.5/tune/NRC-5-Tune.txt",
-      "hash": "ac1ebeffb294417ce6a081a84831a0bbd535d3589bdd473741f90328f9c4e990",
+      "hash": "5ccfb996ea8c77ccf41074a95ad39ec1de4c3fb575752c9e2e12ad92df7f1ecf",
       "title": "Freestyle 5\" Tune by NorfolkRC",
       "firmware_version": [
         "4.5"
