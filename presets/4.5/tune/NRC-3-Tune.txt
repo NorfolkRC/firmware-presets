@@ -48,9 +48,9 @@
 set anti_gravity_gain = 120
 set feedforward_transition = 30
 
-#$ OPTION_GROUP BEGIN:PIDs
+#$ OPTION_GROUP BEGIN: Choose Battery
 
-    #$ OPTION BEGIN (UNCHECKED):With Action Camera
+    #$ OPTION BEGIN (UNCHECKED): 3s Lipo
 
         set simplified_master_multiplier = 100
         set simplified_i_gain = 90
@@ -62,7 +62,7 @@ set feedforward_transition = 30
 
     #$ OPTION END 
 
-    #$ OPTION BEGIN (CHECKED):No Action Camera
+    #$ OPTION BEGIN (UNCHECKED): 4s and 6s Lipo
 
         set simplified_master_multiplier = 95
         set simplified_i_gain = 90
@@ -112,7 +112,7 @@ set dterm_lpf1_dyn_expo = 0
 
 #$ OPTION_GROUP END
 
-#$ OPTION_GROUP BEGIN: Choose RC Link
+#$ OPTION_GROUP BEGIN: Choose Receiver
 
     #$ OPTION BEGIN (UNCHECKED): Crossfire Dynamic
         #$ INCLUDE: presets/4.3/rc_link/defaults.txt
@@ -145,7 +145,7 @@ set dterm_lpf1_dyn_expo = 0
 
     #$ OPTION END
 
-    #$ OPTION BEGIN (CHECKED): ELRS 500Hz
+    #$ OPTION BEGIN (UNCHECKED): ELRS 500Hz
         #$ INCLUDE: presets/4.3/rc_link/defaults.txt
         
         feature RX_SERIAL
@@ -163,7 +163,7 @@ set dterm_lpf1_dyn_expo = 0
 
 #$ OPTION_GROUP END
 
-    #$ OPTION_GROUP BEGIN: Freestyle Rates
+    #$ OPTION_GROUP BEGIN: Choose Freestyle Rates
 
     #$ OPTION BEGIN (UNCHECKED): Smooth
     #$ INCLUDE: presets/4.3/rates/defaults.txt
@@ -195,7 +195,7 @@ set dterm_lpf1_dyn_expo = 0
 
     #$ OPTION END
 
-    #$ OPTION BEGIN (CHECKED): Fast
+    #$ OPTION BEGIN (UNCHECKED): Fast
     #$ INCLUDE: presets/4.3/rates/defaults.txt
 
         set roll_rc_rate = 25
