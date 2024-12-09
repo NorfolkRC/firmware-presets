@@ -464,6 +464,7 @@
       "noisy",
       "NorfolkRC",
       "normal",
+      "NRC",
       "O3",
       "O3 air unit",
       "Omni",
@@ -6698,6 +6699,27 @@
       ],
       "author": "Volker Göschl-Covrljan",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/tune/NRC-5-Tune.txt",
+      "hash": "bc8d127d5d7714dd987ed7a3f29ae6bfe152fe12ee364bfa9b4529582f446bb8",
+      "title": "NorfolkRC Freestyle 5\" Tune",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "NorfolkRC",
+        "NRC",
+        "4S",
+        "6S",
+        "Freestyle",
+        "5 inch",
+        "5\""
+      ],
+      "author": "Bruno @ NorfolkRC",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/tune/Street_League_LeadFingers.txt",
