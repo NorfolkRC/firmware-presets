@@ -1,4 +1,4 @@
-#$ TITLE: Freestyle 5" Tune by NorfolkRC
+#$ TITLE: NorfolkRC Freestyle 5" Tune
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
