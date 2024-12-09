@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC Freestyle 5" Tune 
+#$ TITLE: Freestyle 5" Tune by NorfolkRC
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
@@ -39,6 +39,9 @@
 #$ DESCRIPTION: <b> Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:
 
 #$ INCLUDE: presets/4.5/tune/defaults.txt
