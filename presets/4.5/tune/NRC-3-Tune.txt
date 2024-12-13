@@ -14,7 +14,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: * Choose your Lipo Battery
+#$ DESCRIPTION: * Choose your Lipo
 #$ DESCRIPTION: * RPM Filtering recommended on compatible ESC or de-select if not available
 #$ DESCRIPTION: * Choose your Receiver
 #$ DESCRIPTION: * Try some freestyle rates 3 options....
