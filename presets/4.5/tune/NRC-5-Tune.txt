@@ -9,7 +9,7 @@
 #$ INCLUDE_WARNING: misc/warnings/en/rpm_filters.txt
 
 
-#$ DESCRIPTION: <a href="https://www.facebook.com/groups/norfolkrc/"><img src="https://iili.io/2M3OWap.md.png" width="130px" style="display: block; float: left; margin-right: 30px; margin-top: 20px"/></a>
+#$ DESCRIPTION: <a href="https://www.facebook.com/groups/norfolkrc/"><img src="https://iili.io/2M3OWap.md.png" width="130px" style="display: block; float: left; margin-right: 40px; margin-top: 20px"/></a>
 #$ DESCRIPTION:
 #$ DESCRIPTION:
 #$ DESCRIPTION: Choose from the options from the drop-down:
