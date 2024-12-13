@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: HD O3 OSD settings
+#$ DESCRIPTION: <b>HD OSD settings</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
@@ -22,7 +22,9 @@
 #$ DESCRIPTION: You will also need to select " VTX (MSP + Displayport) " on the appropriate port in the ports tab.
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <center>
 #$ DESCRIPTION: <b>Elements:</b> Battery Average Cell Voltage - Battery Voltage - Craft Name - Disarmed - Flip After Crash Arrow - Fly Mode - Link Quality - Timer 2 - Warnings
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
@@ -36,7 +38,8 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <img src="https://iili.io/2MBNWiX.md.png" width="600px" style="margin-left: auto; margin-right: auto; display: block;"/>
-#$ DESCRIPTION: 
+#$ DESCRIPTION: </center>
+#$ DESCRIPTION:  
 #$ DISCUSSION: https://github.com/NorfolkRC/firmware-presets/pulls
 
 set osd_units = METRIC
