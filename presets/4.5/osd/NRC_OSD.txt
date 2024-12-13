@@ -29,7 +29,7 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: <b> Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)</b>
+#$ DESCRIPTION: <b> Come say hello on our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
