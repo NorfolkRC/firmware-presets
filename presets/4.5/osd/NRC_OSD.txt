@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: <b>HD OSD settings</b>
+#$ DESCRIPTION: <b>NorfolkRC HD OSD</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
@@ -23,10 +23,10 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION: <br>
 #$ DESCRIPTION: <center>
 #$ DESCRIPTION: <b>Elements:</b> Battery Average Cell Voltage - Battery Voltage - Craft Name - Disarmed - Flip After Crash Arrow - Fly Mode - Link Quality - Timer 2 - Warnings
 #$ DESCRIPTION:
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <b> Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)</b>
