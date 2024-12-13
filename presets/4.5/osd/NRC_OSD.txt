@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: <b>NorfolkRC HD OSD</b>
+#$ DESCRIPTION: <b>NorfolkRC HD OSD Preset</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
@@ -28,8 +28,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION: <br>
-#$ DESCRIPTION: <b> Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/)</b>
+#$ DESCRIPTION: <b> Visit our [FACEBOOK](https://www.facebook.com/groups/norfolkrc/) </b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
