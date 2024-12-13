@@ -6703,7 +6703,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/NRC-3-Tune.txt",
-      "hash": "eb62064fb55484ef756f2ef79253907e2f331c99c5bf704039773c98acf6e846",
+      "hash": "c0d745925146cfb66efe87e4aaa372dad9e95b0cdf289534775651715fbe511d",
       "title": "NorfolkRC Freestyle 3\" Tune",
       "firmware_version": [
         "4.5"
@@ -6724,7 +6724,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/NRC-5-Tune.txt",
-      "hash": "90cddea9996dbaf733efc0c24fd2f58fc32fc81ff55a84e394e0129b5d45e8fd",
+      "hash": "8e668ea903aec936d40270ba61b329958f6f44210a0667d7605dc4b1e1041b06",
       "title": "NorfolkRC Freestyle 5\" Tune",
       "firmware_version": [
         "4.5"
