@@ -11,7 +11,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: <b>NorfolkRC HD OSD Preset</b>
+#$ DESCRIPTION: <b>HD OSD Preset</b>
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
