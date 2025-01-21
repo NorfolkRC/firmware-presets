@@ -1,4 +1,4 @@
-#$ TITLE: NorfolkRC DJI 03 OSD
+#$ TITLE: NorfolkRC DJI 03 OSD v0.2
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
@@ -15,7 +15,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: Intended to be used with the DJI 03 Unit and Goovgles v2 or Googles 2
+#$ DESCRIPTION: Intended to be used with the DJI 03 Unit
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
